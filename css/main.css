@@ -6601,3 +6601,39 @@ video {
  font-weight:300;
  color:gray
 }
+
+.word {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    border: 1px solid #b0b0b0;
+}
+
+.word-icon {
+    height: 70px;
+    width: 70px;
+}
+
+.word-text {
+    font-weight: 600;
+    margin-top: 0 !important;
+}
+
+.pdf {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    border: 1px solid #b0b0b0;
+}
+
+.pdf-icon {
+    height: 70px;
+    width: 70px;
+}
+
+.pdf-text {
+    font-weight: 600;
+    margin-top: 0 !important;
+}

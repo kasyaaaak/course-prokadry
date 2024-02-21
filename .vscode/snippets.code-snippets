@@ -1,0 +1,58 @@
+{
+	"video file": {
+		"scope": "html",
+		"prefix": "videofile",
+		"body": [
+		  "<p>",
+		  "    <video src=\"../video/\" frameborder=\"0\" height=\"385\" width=\"960\" controls></video>",
+		  "</p>"
+		],
+		"description": "video file"
+	  },
+	  "hlt text": {
+		"scope": "html",
+		"prefix": "hlt",
+		"body": [
+		  "<div class=\"hlt hlt--pr\">",
+		  "    <span>",
+		  "            ",
+		  "    </span>",
+		  "</div>"
+		],
+		"description": "hlt text"
+	  },
+	  "word file": {
+		"scope": "html",
+		"prefix": "word",
+		"body": [
+		  "<p></p>",
+		  "    <div>",
+		  "        <a href=\"../documents/\"",
+		  "            class=\"word-file\">",
+		  "            <div class=\"word\">",
+		  "                <img src=\"../img/word-icon.png\" alt=\"\" class=\"word-icon\">",
+		  "                <p class=\"word-text\">Завантажити файл</p>",
+		  "            </div>",
+		  "        </a>",
+		  "    </div>"
+		],
+		"description": "word file"
+	  },
+	  "pdf file": {
+		"scope": "html",
+		"prefix": "pdf",
+		"body": [
+		  "<p></p>",
+		  "    <div>",
+		  "        <a href=\"../documents/\"",
+		  "            class=\"pdf-file\">",
+		  "            <div class=\"pdf\">",
+		  "                <img src=\"../img/pdf-icon.png\" alt=\"\" class=\"pdf-icon\">",
+		  "                <p class=\"pdf-text\">Завантажити файл</p>",
+		  "            </div>",
+		  "        </a>",
+		  "    </div>"
+		],
+		"description": "pdf file"
+	  }
+}
