@@ -3294,18 +3294,6 @@ img {
     color: #2b73d5
 }
 
-.section-title {
-    font-size: 2rem;
-    margin-top: 20px;
-    font-weight: 400
-}
-
-@media screen and (min-width: 932px) {
-    .section-title {
-        font-size: 4rem
-    }
-}
-
 .form-group {
     display: block;
     width: 100%;
