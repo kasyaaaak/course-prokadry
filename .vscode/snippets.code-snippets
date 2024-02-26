@@ -27,7 +27,7 @@
 		"body": [
 		  "<p></p>",
 		  "    <div>",
-		  "        <a href=\"/course-prokadry/documents/\"",
+		  "        <a href=\"/course-prokadry/\"",
 		  "            class=\"word-file\">",
 		  "            <div class=\"word\">",
 		  "                <img src=\"/course-prokadry/img/word-icon.png\" alt=\"\" class=\"word-icon\">",
@@ -44,7 +44,7 @@
 		"body": [
 		  "<p></p>",
 		  "    <div>",
-		  "        <a href=\"/course-prokadry/documents/\"",
+		  "        <a href=\"/course-prokadry/\"",
 		  "            class=\"pdf-file\">",
 		  "            <div class=\"pdf\">",
 		  "                <img src=\"/course-prokadry/img/pdf-icon.png\" alt=\"\" class=\"pdf-icon\">",
