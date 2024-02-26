@@ -54,5 +54,13 @@
 		  "    </div>"
 		],
 		"description": "pdf file"
+	  },
+	  "image": {
+		"scope": "html",
+		"prefix": "img",
+		"body": [
+			"/course-prokadry/img/"
+		  ],
+		  "description": "add img"
 	  }
 }
