@@ -4,7 +4,7 @@
 		"prefix": "videofile",
 		"body": [
 		  "<p>",
-		  "    <video src=\"../video/\" frameborder=\"0\" height=\"385\" width=\"960\" controls></video>",
+		  "    <video src=\"/course-prokadry/video/\" frameborder=\"0\" height=\"385\" width=\"960\" controls></video>",
 		  "</p>"
 		],
 		"description": "video file"
@@ -27,10 +27,10 @@
 		"body": [
 		  "<p></p>",
 		  "    <div>",
-		  "        <a href=\"../documents/\"",
+		  "        <a href=\"/course-prokadry/documents/\"",
 		  "            class=\"word-file\">",
 		  "            <div class=\"word\">",
-		  "                <img src=\"../img/word-icon.png\" alt=\"\" class=\"word-icon\">",
+		  "                <img src=\"/course-prokadry/img/word-icon.png\" alt=\"\" class=\"word-icon\">",
 		  "                <p class=\"word-text\">Завантажити файл</p>",
 		  "            </div>",
 		  "        </a>",
@@ -44,10 +44,10 @@
 		"body": [
 		  "<p></p>",
 		  "    <div>",
-		  "        <a href=\"../documents/\"",
+		  "        <a href=\"/course-prokadry/documents/\"",
 		  "            class=\"pdf-file\">",
 		  "            <div class=\"pdf\">",
-		  "                <img src=\"../img/pdf-icon.png\" alt=\"\" class=\"pdf-icon\">",
+		  "                <img src=\"/course-prokadry/img/pdf-icon.png\" alt=\"\" class=\"pdf-icon\">",
 		  "                <p class=\"pdf-text\">Завантажити файл</p>",
 		  "            </div>",
 		  "        </a>",
